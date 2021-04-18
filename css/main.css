@@ -9,3 +9,46 @@
                 font-family: "OpenSans-ExtraBold";
                 color: grey;
             }
+            
+            .semilla1 {
+                overflow: hidden;
+                position: relative;
+                height: 400px;
+            }
+            
+            .semilla2 {
+                width: 100%;
+                height: auto;
+                position: absolute;
+                margin-top: -200px;
+            }
+            
+            .logo {
+                height: 40%;
+                width: auto;
+                position: inline-block;
+            }
+            
+            .metodologia1 {
+                width: 100%;
+                height: auto;
+                margin-left: 0;
+                padding-left: 0;
+            }
+            
+            .metodologia2 {
+                font-family: "OpenSans-Bold";
+                color: white;
+            }
+            
+            .proyectos1 {
+                width: 90%;
+                height: auto;
+                position: relative;
+                text-align: right;
+            }
+            
+            .proyectos2 {
+                text-align: left;
+                vertical-align: text-top;
+            }
